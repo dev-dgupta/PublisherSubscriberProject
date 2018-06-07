@@ -1,0 +1,220 @@
+Fri Jun 01 12:30:09 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Fri Jun 01 12:30:09 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Fri Jun 01 12:30:31 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Fri Jun 01 12:30:31 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Fri Jun 01 12:34:32 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Fri Jun 01 12:34:32 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Fri Jun 01 12:45:34 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Fri Jun 01 12:45:34 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Fri Jun 01 12:45:57 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Fri Jun 01 12:45:57 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Fri Jun 01 12:48:15 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Fri Jun 01 12:48:15 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Fri Jun 01 12:49:45 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Fri Jun 01 12:49:45 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Fri Jun 01 12:50:36 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Fri Jun 01 12:50:36 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Fri Jun 01 12:54:22 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Fri Jun 01 12:54:22 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Fri Jun 01 13:06:22 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Fri Jun 01 13:06:22 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Fri Jun 01 13:09:32 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Fri Jun 01 13:09:32 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Fri Jun 01 13:45:15 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Fri Jun 01 13:45:15 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Fri Jun 01 13:49:15 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Fri Jun 01 13:49:15 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Fri Jun 01 13:50:28 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Fri Jun 01 13:50:28 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Fri Jun 01 13:57:24 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Fri Jun 01 13:57:24 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Fri Jun 01 14:57:02 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Fri Jun 01 14:57:03 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Fri Jun 01 14:57:16 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Fri Jun 01 14:57:16 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Fri Jun 01 14:59:56 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Fri Jun 01 14:59:56 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Fri Jun 01 15:02:45 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Fri Jun 01 15:02:45 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Fri Jun 01 15:03:37 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Fri Jun 01 15:03:38 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Fri Jun 01 15:04:57 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:19101)} com.iontrading.mkv.exceptions.MkvTypeNotFoundException: Record type [DGA_SRC_DGA_TYP3] not yet published
+Fri Jun 01 15:04:57 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:19101)} 	at com.iontrading.mkv.MkvRecord.r(MkvRecord.java:102)
+Fri Jun 01 15:04:57 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:19101)} 	at com.iontrading.mkv.MkvRecord.subscribe(MkvRecord.java:1374)
+Fri Jun 01 15:04:57 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:19101)} 	at com.ion.java.api.subscriber.MySubscribeApplication.onPublish(MySubscribeApplication.java:83)
+Fri Jun 01 15:04:57 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:19101)} 	at com.iontrading.mkv.ak.a(MkvEventDispatcher.java:304)
+Fri Jun 01 15:04:57 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:19101)} 	at com.iontrading.mkv.ag$c.a(MkvConnection.java:2162)
+Fri Jun 01 15:04:57 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:19101)} 	at com.iontrading.e.c.a(NetInputStream.java:289)
+Fri Jun 01 15:04:57 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:19101)} 	at com.iontrading.mkv.ag$a.a(MkvConnection.java:1672)
+Fri Jun 01 15:04:57 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:19101)} 	at com.iontrading.a.f.e(OspStream.java:429)
+Fri Jun 01 15:04:57 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:19101)} 	at com.iontrading.mkv.ag$a.run(MkvConnection.java:1772)
+Fri Jun 01 15:04:57 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:19101)} 	at java.lang.Thread.run(Thread.java:748)
+Fri Jun 01 16:12:48 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Fri Jun 01 16:12:48 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Fri Jun 01 16:13:45 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Fri Jun 01 16:13:45 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Fri Jun 01 16:17:48 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Fri Jun 01 16:17:48 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Fri Jun 01 16:18:51 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Fri Jun 01 16:18:51 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Fri Jun 01 16:23:18 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Fri Jun 01 16:23:18 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Fri Jun 01 17:18:47 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Fri Jun 01 17:18:47 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Mon Jun 04 12:53:58 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Mon Jun 04 12:53:58 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Mon Jun 04 12:54:19 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Mon Jun 04 12:54:19 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Mon Jun 04 12:55:38 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Mon Jun 04 12:55:38 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Mon Jun 04 12:56:28 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Mon Jun 04 12:56:32 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Mon Jun 04 15:00:17 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Mon Jun 04 15:00:17 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Mon Jun 04 15:01:17 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Mon Jun 04 15:01:17 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Mon Jun 04 15:14:34 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Mon Jun 04 15:14:34 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Mon Jun 04 15:15:52 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Mon Jun 04 15:15:56 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Mon Jun 04 15:22:54 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Mon Jun 04 15:22:54 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Mon Jun 04 15:23:23 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Mon Jun 04 15:23:23 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Mon Jun 04 15:25:10 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Mon Jun 04 15:25:10 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Mon Jun 04 15:29:47 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Mon Jun 04 15:29:47 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Mon Jun 04 15:31:11 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Mon Jun 04 15:31:11 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Mon Jun 04 15:36:18 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Mon Jun 04 15:36:18 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Mon Jun 04 17:52:32 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Mon Jun 04 17:52:32 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Mon Jun 04 17:54:44 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Mon Jun 04 17:54:44 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Mon Jun 04 17:57:27 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Mon Jun 04 17:57:27 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Mon Jun 04 17:57:56 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Mon Jun 04 17:57:56 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Mon Jun 04 18:23:51 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Mon Jun 04 18:25:21 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Tue Jun 05 17:11:46 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Tue Jun 05 17:11:46 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Tue Jun 05 18:02:52 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Tue Jun 05 18:02:52 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Wed Jun 06 10:53:48 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Wed Jun 06 10:53:48 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Wed Jun 06 10:53:54 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Wed Jun 06 10:53:54 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Wed Jun 06 10:55:32 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Wed Jun 06 10:55:32 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Wed Jun 06 11:01:31 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Wed Jun 06 11:01:31 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Wed Jun 06 11:05:04 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Wed Jun 06 11:05:04 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Wed Jun 06 11:11:52 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Wed Jun 06 11:11:52 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Wed Jun 06 11:12:06 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Wed Jun 06 11:12:06 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Wed Jun 06 11:12:27 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:64575)} com.iontrading.mkv.exceptions.MkvException: Field not set
+Wed Jun 06 11:12:27 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:64575)} 	at com.iontrading.mkv.bi.getString(MkvSupply_Impl.java:750)
+Wed Jun 06 11:12:27 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:64575)} 	at com.ion.java.api.messageQueue.QueueSubscriber.onUpdate(QueueSubscriber.java:197)
+Wed Jun 06 11:12:27 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:64575)} 	at com.iontrading.mkv.messagequeue.MkvMQSubscribe$a.a(MkvMQSubscribe.java:591)
+Wed Jun 06 11:12:27 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:64575)} 	at com.iontrading.mkv.messagequeue.MkvMQSubscribe$a.onFullUpdate(MkvMQSubscribe.java:607)
+Wed Jun 06 11:12:27 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:64575)} 	at com.iontrading.mkv.messagequeue.MkvMQSubscribe$a.onPartialUpdate(MkvMQSubscribe.java:678)
+Wed Jun 06 11:12:27 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:64575)} 	at com.iontrading.mkv.MkvSubscribeManager.a(MkvSubscribeManager.java:1129)
+Wed Jun 06 11:12:27 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:64575)} 	at com.iontrading.mkv.MkvSubscribeManager.a(MkvSubscribeManager.java:1100)
+Wed Jun 06 11:12:27 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:64575)} 	at com.iontrading.mkv.ag$c.a(MkvConnection.java:2927)
+Wed Jun 06 11:12:27 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:64575)} 	at com.iontrading.e.c.a(NetInputStream.java:278)
+Wed Jun 06 11:12:27 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:64575)} 	at com.iontrading.mkv.ag$a.a(MkvConnection.java:1672)
+Wed Jun 06 11:12:27 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:64575)} 	at com.iontrading.a.f.e(OspStream.java:429)
+Wed Jun 06 11:12:27 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:64575)} 	at com.iontrading.mkv.ag$a.run(MkvConnection.java:1772)
+Wed Jun 06 11:12:27 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:64575)} 	at java.lang.Thread.run(Thread.java:748)
+Wed Jun 06 11:13:20 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:64709)} com.iontrading.mkv.exceptions.MkvException: Field not set
+Wed Jun 06 11:13:20 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:64709)} 	at com.iontrading.mkv.bi.getString(MkvSupply_Impl.java:750)
+Wed Jun 06 11:13:20 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:64709)} 	at com.ion.java.api.messageQueue.QueueSubscriber.onUpdate(QueueSubscriber.java:197)
+Wed Jun 06 11:13:20 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:64709)} 	at com.iontrading.mkv.messagequeue.MkvMQSubscribe$a.a(MkvMQSubscribe.java:591)
+Wed Jun 06 11:13:20 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:64709)} 	at com.iontrading.mkv.messagequeue.MkvMQSubscribe$a.onFullUpdate(MkvMQSubscribe.java:607)
+Wed Jun 06 11:13:20 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:64709)} 	at com.iontrading.mkv.messagequeue.MkvMQSubscribe$a.onPartialUpdate(MkvMQSubscribe.java:678)
+Wed Jun 06 11:13:20 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:64709)} 	at com.iontrading.mkv.MkvSubscribeManager.a(MkvSubscribeManager.java:1129)
+Wed Jun 06 11:13:20 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:64709)} 	at com.iontrading.mkv.MkvSubscribeManager.a(MkvSubscribeManager.java:1100)
+Wed Jun 06 11:13:20 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:64709)} 	at com.iontrading.mkv.ag$c.a(MkvConnection.java:2927)
+Wed Jun 06 11:13:20 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:64709)} 	at com.iontrading.e.c.a(NetInputStream.java:278)
+Wed Jun 06 11:13:20 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:64709)} 	at com.iontrading.mkv.ag$a.a(MkvConnection.java:1672)
+Wed Jun 06 11:13:20 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:64709)} 	at com.iontrading.a.f.e(OspStream.java:429)
+Wed Jun 06 11:13:20 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:64709)} 	at com.iontrading.mkv.ag$a.run(MkvConnection.java:1772)
+Wed Jun 06 11:13:20 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:64709)} 	at java.lang.Thread.run(Thread.java:748)
+Wed Jun 06 11:13:39 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Wed Jun 06 11:13:39 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Wed Jun 06 11:15:53 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Wed Jun 06 11:15:53 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Wed Jun 06 11:16:48 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:64709)} com.iontrading.mkv.exceptions.MkvException: Field not set
+Wed Jun 06 11:16:48 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:64709)} 	at com.iontrading.mkv.bi.getString(MkvSupply_Impl.java:750)
+Wed Jun 06 11:16:48 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:64709)} 	at com.ion.java.api.messageQueue.QueueSubscriber.onUpdate(QueueSubscriber.java:197)
+Wed Jun 06 11:16:48 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:64709)} 	at com.iontrading.mkv.messagequeue.MkvMQSubscribe$a.a(MkvMQSubscribe.java:591)
+Wed Jun 06 11:16:48 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:64709)} 	at com.iontrading.mkv.messagequeue.MkvMQSubscribe$a.onFullUpdate(MkvMQSubscribe.java:607)
+Wed Jun 06 11:16:48 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:64709)} 	at com.iontrading.mkv.messagequeue.MkvMQSubscribe$a.onPartialUpdate(MkvMQSubscribe.java:678)
+Wed Jun 06 11:16:48 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:64709)} 	at com.iontrading.mkv.MkvSubscribeManager.a(MkvSubscribeManager.java:1129)
+Wed Jun 06 11:16:48 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:64709)} 	at com.iontrading.mkv.MkvSubscribeManager.a(MkvSubscribeManager.java:1100)
+Wed Jun 06 11:16:48 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:64709)} 	at com.iontrading.mkv.ag$c.a(MkvConnection.java:2927)
+Wed Jun 06 11:16:48 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:64709)} 	at com.iontrading.e.c.a(NetInputStream.java:278)
+Wed Jun 06 11:16:48 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:64709)} 	at com.iontrading.mkv.ag$a.a(MkvConnection.java:1672)
+Wed Jun 06 11:16:48 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:64709)} 	at com.iontrading.a.f.e(OspStream.java:429)
+Wed Jun 06 11:16:48 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:64709)} 	at com.iontrading.mkv.ag$a.run(MkvConnection.java:1772)
+Wed Jun 06 11:16:48 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:64709)} 	at java.lang.Thread.run(Thread.java:748)
+Wed Jun 06 11:16:56 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Wed Jun 06 11:16:56 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Wed Jun 06 11:20:14 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Wed Jun 06 11:20:14 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Wed Jun 06 11:20:29 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:65227)} com.iontrading.mkv.exceptions.MkvException: Field not set
+Wed Jun 06 11:20:29 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:65227)} 	at com.iontrading.mkv.bi.getString(MkvSupply_Impl.java:750)
+Wed Jun 06 11:20:29 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:65227)} 	at com.ion.java.api.messageQueue.QueueSubscriber.onUpdate(QueueSubscriber.java:197)
+Wed Jun 06 11:20:29 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:65227)} 	at com.iontrading.mkv.messagequeue.MkvMQSubscribe$a.a(MkvMQSubscribe.java:591)
+Wed Jun 06 11:20:29 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:65227)} 	at com.iontrading.mkv.messagequeue.MkvMQSubscribe$a.onFullUpdate(MkvMQSubscribe.java:607)
+Wed Jun 06 11:20:29 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:65227)} 	at com.iontrading.mkv.messagequeue.MkvMQSubscribe$a.onPartialUpdate(MkvMQSubscribe.java:678)
+Wed Jun 06 11:20:29 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:65227)} 	at com.iontrading.mkv.MkvSubscribeManager.a(MkvSubscribeManager.java:1129)
+Wed Jun 06 11:20:29 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:65227)} 	at com.iontrading.mkv.MkvSubscribeManager.a(MkvSubscribeManager.java:1100)
+Wed Jun 06 11:20:29 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:65227)} 	at com.iontrading.mkv.ag$c.a(MkvConnection.java:2927)
+Wed Jun 06 11:20:29 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:65227)} 	at com.iontrading.e.c.a(NetInputStream.java:278)
+Wed Jun 06 11:20:29 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:65227)} 	at com.iontrading.mkv.ag$a.a(MkvConnection.java:1672)
+Wed Jun 06 11:20:29 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:65227)} 	at com.iontrading.a.f.e(OspStream.java:429)
+Wed Jun 06 11:20:29 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:65227)} 	at com.iontrading.mkv.ag$a.run(MkvConnection.java:1772)
+Wed Jun 06 11:20:29 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:65227)} 	at java.lang.Thread.run(Thread.java:748)
+Wed Jun 06 11:24:49 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Wed Jun 06 11:24:49 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Wed Jun 06 11:30:10 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Wed Jun 06 11:30:10 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Wed Jun 06 11:30:30 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Wed Jun 06 11:30:30 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Wed Jun 06 12:07:48 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Wed Jun 06 12:07:48 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Wed Jun 06 12:09:08 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Wed Jun 06 12:09:08 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Wed Jun 06 12:09:37 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:50912)} java.lang.NullPointerException
+Wed Jun 06 12:09:37 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:50912)} 	at com.ion.java.api.messageQueue.QueueSubscriber.onUpdate(QueueSubscriber.java:197)
+Wed Jun 06 12:09:37 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:50912)} 	at com.iontrading.mkv.messagequeue.MkvMQSubscribe$a.a(MkvMQSubscribe.java:591)
+Wed Jun 06 12:09:37 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:50912)} 	at com.iontrading.mkv.messagequeue.MkvMQSubscribe$a.onFullUpdate(MkvMQSubscribe.java:607)
+Wed Jun 06 12:09:37 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:50912)} 	at com.iontrading.mkv.messagequeue.MkvMQSubscribe$a.onPartialUpdate(MkvMQSubscribe.java:678)
+Wed Jun 06 12:09:37 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:50912)} 	at com.iontrading.mkv.MkvSubscribeManager.a(MkvSubscribeManager.java:1129)
+Wed Jun 06 12:09:37 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:50912)} 	at com.iontrading.mkv.MkvSubscribeManager.a(MkvSubscribeManager.java:1100)
+Wed Jun 06 12:09:37 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:50912)} 	at com.iontrading.mkv.ag$c.a(MkvConnection.java:2927)
+Wed Jun 06 12:09:37 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:50912)} 	at com.iontrading.e.c.a(NetInputStream.java:278)
+Wed Jun 06 12:09:37 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:50912)} 	at com.iontrading.mkv.ag$a.a(MkvConnection.java:1672)
+Wed Jun 06 12:09:37 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:50912)} 	at com.iontrading.a.f.e(OspStream.java:429)
+Wed Jun 06 12:09:37 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:50912)} 	at com.iontrading.mkv.ag$a.run(MkvConnection.java:1772)
+Wed Jun 06 12:09:37 IST 2018 {MkvConnection(IONDELWS727.iontrading.com:50912)} 	at java.lang.Thread.run(Thread.java:748)
+Wed Jun 06 12:11:00 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Wed Jun 06 12:11:12 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Wed Jun 06 12:12:29 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Wed Jun 06 12:12:29 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Wed Jun 06 12:12:48 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Wed Jun 06 12:12:48 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Wed Jun 06 12:13:01 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Wed Jun 06 12:13:01 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Wed Jun 06 12:16:13 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Wed Jun 06 12:16:13 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Wed Jun 06 13:24:38 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Wed Jun 06 13:24:38 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
+Wed Jun 06 13:26:27 IST 2018 Starting ION Bus Java API v1.3.6-p5d1 April 17, 2018
+Wed Jun 06 13:26:27 IST 2018 {main} WARNING: JvmStat library for extended statistics on GC collections is disabled {'tools.jar' missing or not in classpath}
