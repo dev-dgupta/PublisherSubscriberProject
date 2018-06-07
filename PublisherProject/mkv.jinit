@@ -1,0 +1,36 @@
+# mkv.jinit example for the Mock
+
+#
+# PLATFORM SETTINGS
+#
+mkv.cshost 		= 10.101.130.201
+mkv.csport 		= 19100
+mkv.component   = M2_LISTENER
+mkv.user		= mkv
+mkv.pwd			= mkv12
+mkv.listen		= 17700
+
+mkv.source = DGA
+mkv.currency = USD 
+mkv.debug = -40 
+mkv.logsasync = 0 
+mkv.logsflushtime = 0 
+mkv.custom_string_variable=Test 
+mkv.custom_int_variable=1 
+
+
+#
+# LOG SETTINGS
+#
+
+#mkv.debug		= 1
+
+
+#
+# CLUSTER SETTINGS
+# mkv.cluster variable specifies the list of other router component names
+# 	running in the same cluster (details in the RoutingClusters doc)
+#
+
+#mkv.cluster	= R1 R2 R3 R4 R5
+
